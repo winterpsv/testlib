@@ -1,0 +1,14 @@
+{
+    "name": "winter/php7loc",
+    "description": "Test lib",
+    "type": "lib",
+    "license": "MIT",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "classes\\": "classes"
+        }
+    }
+}
